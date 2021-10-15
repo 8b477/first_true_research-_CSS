@@ -1,0 +1,14 @@
+h1{
+    border:dotted red 4px;
+    border-radius: 15%;
+    text-align: center;
+    background-color: black;
+    color:white;
+
+
+}
+p{
+    letter-spacing: .2rem;
+    padding-top: 15%;
+
+}
